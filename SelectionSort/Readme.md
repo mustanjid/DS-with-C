@@ -15,3 +15,4 @@
 7. Step 7: update i
 8. Step 8: Print sorted array
 9. Step 9: End
+#### time complexity: O(n) space compelxity: O(n)
