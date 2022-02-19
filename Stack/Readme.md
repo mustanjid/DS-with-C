@@ -1,4 +1,4 @@
-# Stack is collection elements where two operations are occured. One is to push which functions as adding an element in collection and another one is pop which functions as removing the latest added element from the collection. Stack follows LIFO - Last In First Out.
+# Stack is collection of elements where two operations are occured. One is to push which functions as adding an element into the collection and another one is pop which functions as removing the latest added element from the collection. Stack follows LIFO - Last In First Out.
 
 ### Algorithm of Stack for PUSH:
 1. Step 1: Start
@@ -15,4 +15,4 @@
            no, item = arr[top] <br>
                top = top - 1;
 
-#### time complexity: O(1) is worst case; space compelxity: O(1)
+#### time complexity: O(1) in worst case; space compelxity: O(1)
