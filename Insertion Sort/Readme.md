@@ -11,6 +11,4 @@
 7. Step 7: update i
 8. Step 8: End
 
-Search a sorted array by repeatedly dividing the search interval in half. Begin with an interval covering the whole array. If the value of the search key is less than the item in the middle of the interval, narrow the interval to the lower half.
-
-#### time complexity: O(log n) space compelxity: O(1)
+#### time complexity: O(n * n) is worst case; space compelxity: O(1)
