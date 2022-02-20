@@ -6,8 +6,8 @@
 4. Step 4: if (totalItem == QueueSize)<br>
            yes, Queue is full <br>
 4. Step 4: if (totalItem < QueueSize) <br>
-           yes, queue[tail] = item <br>
-                tail = (tail + 1) % QueueSize <br>
+           yes, tail = (tail + 1) % QueueSize <br>
+           queue[tail] = item <br>
                 totalItem++
 ### Algorithm of Queue for Dequeue:
 1. Step 1: Start
