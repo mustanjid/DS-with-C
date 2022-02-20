@@ -14,7 +14,7 @@
 2. Step 2: if (totalItem < 0)<br>
            yes, print stack is empty <br>
            no, queue[head] = -1 <br>
-           head = (head + 1) % QueueSize
+           head = (head + 1) % QueueSize<br>
            totalItem--
 
 #### time complexity: O(1) in worst case; space compelxity: O(1)
